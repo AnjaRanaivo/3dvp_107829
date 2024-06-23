@@ -1,4 +1,4 @@
-name: CI_CD_analyze
+name: CI_CD_audit
 
 on:
   pull_request:
